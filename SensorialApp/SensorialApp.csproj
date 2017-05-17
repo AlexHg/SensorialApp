@@ -92,23 +92,33 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="tab_calc.cs" />
+    <Compile Include="tab_calc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="tab_calc.Designer.cs">
       <DependentUpon>tab_calc.cs</DependentUpon>
     </Compile>
-    <Compile Include="tab_conf.cs" />
+    <Compile Include="tab_conf.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="tab_conf.Designer.cs">
       <DependentUpon>tab_conf.cs</DependentUpon>
     </Compile>
-    <Compile Include="tab_eye.cs" />
+    <Compile Include="tab_eye.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="tab_eye.Designer.cs">
       <DependentUpon>tab_eye.cs</DependentUpon>
     </Compile>
-    <Compile Include="tab_home.cs" />
+    <Compile Include="tab_home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="tab_home.Designer.cs">
       <DependentUpon>tab_home.cs</DependentUpon>
     </Compile>
-    <Compile Include="tab_led.cs" />
+    <Compile Include="tab_led.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="tab_led.Designer.cs">
       <DependentUpon>tab_led.cs</DependentUpon>
     </Compile>
