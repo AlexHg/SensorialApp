@@ -36,5 +36,10 @@ namespace sensorial
 		{
 
 		}
+
+		private void bunifuCustomLabel2_Click(object sender, EventArgs e)
+		{
+
+		}
 	}
 }

@@ -194,5 +194,10 @@ namespace WindowsFormsApp2
 		{
 
 		}
+
+		private void bunifuImageButton9_Click(object sender, EventArgs e)
+		{
+
+		}
 	}
 }

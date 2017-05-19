@@ -36,5 +36,20 @@ namespace sensorial
 		{
 
 		}
+
+		private void bunifuDropdown1_onItemSelected(object sender, EventArgs e)
+		{
+
+		}
+
+		private void bunifuCustomLabel7_Click(object sender, EventArgs e)
+		{
+
+		}
+
+		private void bunifuTextbox1_OnTextChange(object sender, EventArgs e)
+		{
+
+		}
 	}
 }
