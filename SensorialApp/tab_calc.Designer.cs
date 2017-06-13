@@ -117,7 +117,7 @@
 			this.Resultado.Location = new System.Drawing.Point(244, 182);
 			this.Resultado.Margin = new System.Windows.Forms.Padding(8, 8, 8, 8);
 			this.Resultado.Name = "Resultado";
-			this.Resultado.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
+			this.Resultado.Padding = new System.Windows.Forms.Padding(20, 0, 20, 0);
 			this.Resultado.Size = new System.Drawing.Size(528, 105);
 			this.Resultado.TabIndex = 22;
 			this.Resultado.Text = "Resultado";
